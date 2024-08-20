@@ -12,7 +12,7 @@ function App() {
       <GridItem area="nav">
         <Navbar />
       </GridItem>
-      <Show above="lg  ">
+      <Show above="lg">
         <GridItem area="aside" bg="gold">
           Aside
         </GridItem>
